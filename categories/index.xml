@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Summarizer: AI Research Assistant</title>
+    <link>https://carolinebegg.github.io/chrome-extension-landing-page/categories/</link>
+    <description>Recent content in Categories on Summarizer: AI Research Assistant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CIS 3500 Spring 2024. Team 16: Summarizer.</copyright>
+    <atom:link href="https://carolinebegg.github.io/chrome-extension-landing-page/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
